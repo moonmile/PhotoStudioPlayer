@@ -25,3 +25,6 @@ xcuserdata/
 *.xcscmblueprint
 
 
+/src/PhotoStudioPlayerWin/.vs/PhotoStudioPlayerWin/v15/Browse.VC.db
+/src/PhotoStudioPlayerWin/.vs/PhotoStudioPlayerWin/v15/Browse.VC.opendb
+/src/PhotoStudioPlayerWin/.vs/PhotoStudioPlayerWin/v15
