@@ -1,0 +1,10 @@
+D:\git\moonmile\PhotoStudioPlayer\src\PhotoStudioPlayerWin\PhotoStudioPlayerWin\bin\Debug\PhotoStudioPlayerWin.exe.config
+D:\git\moonmile\PhotoStudioPlayer\src\PhotoStudioPlayerWin\PhotoStudioPlayerWin\bin\Debug\PhotoStudioPlayerWin.exe
+D:\git\moonmile\PhotoStudioPlayer\src\PhotoStudioPlayerWin\PhotoStudioPlayerWin\bin\Debug\PhotoStudioPlayerWin.pdb
+D:\git\moonmile\PhotoStudioPlayer\src\PhotoStudioPlayerWin\PhotoStudioPlayerWin\obj\Debug\PhotoStudioPlayerWin.csprojResolveAssemblyReference.cache
+D:\git\moonmile\PhotoStudioPlayer\src\PhotoStudioPlayerWin\PhotoStudioPlayerWin\obj\Debug\PhotoStudioPlayerWin.Form1.resources
+D:\git\moonmile\PhotoStudioPlayer\src\PhotoStudioPlayerWin\PhotoStudioPlayerWin\obj\Debug\PhotoStudioPlayerWin.Properties.Resources.resources
+D:\git\moonmile\PhotoStudioPlayer\src\PhotoStudioPlayerWin\PhotoStudioPlayerWin\obj\Debug\PhotoStudioPlayerWin.csproj.GenerateResource.Cache
+D:\git\moonmile\PhotoStudioPlayer\src\PhotoStudioPlayerWin\PhotoStudioPlayerWin\obj\Debug\PhotoStudioPlayerWin.csproj.CoreCompileInputs.cache
+D:\git\moonmile\PhotoStudioPlayer\src\PhotoStudioPlayerWin\PhotoStudioPlayerWin\obj\Debug\PhotoStudioPlayerWin.exe
+D:\git\moonmile\PhotoStudioPlayer\src\PhotoStudioPlayerWin\PhotoStudioPlayerWin\obj\Debug\PhotoStudioPlayerWin.pdb

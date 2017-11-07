@@ -227,7 +227,7 @@ namespace PhotoStudioPlayerWin
             if ( tm == null )
             {
                 tm = new Timer();
-                tm.Interval = 200;
+                tm.Interval =　20;
                 tm.Tick += (_, __) => { cap(); };
                 tm.Enabled = true;
                 this.FormBorderStyle = FormBorderStyle.None;
